@@ -1,0 +1,1 @@
+rm -rf hello.zip && rm -rf node_modules/prisma2 && zip -r hello.zip index.js node_modules/** prisma/schema.prisma

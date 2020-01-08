@@ -1,0 +1,1 @@
+aws lambda update-function-configuration --function-name p2-lambda --handler index.handler --timeout 10
