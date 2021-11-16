@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@prisma/photon": "^2.0.0-preview019",
-    "aws-sdk": "^2.599.0"
+    "aws-sdk": "^2.814.0"
   },
   "devDependencies": {
     "prisma2": "^2.0.0-preview019",
